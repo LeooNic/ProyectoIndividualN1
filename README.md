@@ -26,7 +26,9 @@ Utilizamos jupyter notebook para realizar un análisis y previsualizacion de los
 Utilizamos python para automatizar el proceso de ETL 
 Librerias utilizadas =
 -Pandas
+
 -Pymysql
+
 -Sqlalchemy
 
 -En primera instancia creamos nuestra base de datos para realizar la carga inicial.
