@@ -2,7 +2,7 @@
 
 En este proyecto se nos presentan 6 datasets con distintos formatos con el objetivo de realizar un ETL y poder hacer una carga incremental en una base de datos.
 
-#Objetivo:
+## Objetivo:
 Procesar los diferentes datasets.
 Crear un archivo DB con el motor de SQL que quieran. Pueden usar SQLAlchemy por ejemplo.
 Realizar en draw.io un diagrama de flujo de trabajo del ETL y explicarlo en vivo.
